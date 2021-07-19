@@ -1,3 +1,15 @@
-
-Acceleration: 	0.00716  |  0.00377  |  1.00093AngularRate: 	-0.51233  |  0.00149  |  -0.06757Timestamp: 1004.0----------
-Acceleration: 	0.00703  |  0.00378  |  1.00099AngularRate: 	-0.50044  |  0.00501  |  -0.05398Timestamp: 3004.0----------
+Roll (Degrees): 	-176.42498801291165
+Timestamp: 1004.0
+----------
+Roll (Degrees): 	176.1122332861204
+Timestamp: 3004.0
+----------
+Roll (Degrees): 	-22.17551214171994
+Timestamp: 5004.0
+----------
+Roll (Degrees): 	-26.62069859156824
+Timestamp: 7004.0
+----------
+Roll (Degrees): 	163.88206055305787
+Timestamp: 9004.0
+----------
